@@ -1,5 +1,5 @@
-# Decideinator
-Can't decide on a choice? Need a touch of rng in your life? The decideinator got you! The decideinator is a simple program that I made to generate/pick a random option from objects that we can input themed upon a childhood memory. The way it works is simple, all we need to do is input however many strings we would like into the program! Once we are done we can type in the prompt which is 'Decide!'. This would then lead the program to the deciding prompt. It would then pick one of the options that we put in! It even has a feature to remove picked options so that it wont come up again!
+# Decide-inator
+Can't decide on a choice? Need a touch of rng in your life? The decide-inator got you! The decide-inator is a simple program that I made to generate/pick a random option from objects that we can input themed upon a childhood memory. The way it works is simple, all we need to do is input however many strings we would like into the program! Once we are done we can type in the prompt which is 'Decide!'. This would then lead the program to the deciding prompt. It would then pick one of the options that we put in! It even has a feature to remove picked options so that it wont come up again!
 
 # Vector Usage
 In the decideinator, we will utilize the vector. This is because the vector can increase its size automatically. This way, we can store an indefinite amount of inputs in the vector!
@@ -21,7 +21,7 @@ Here we are asked if we want to generate the data or not.
 
 **Data Generation**
 
-Now, the decideinator will pick a random option from the inputs and then ask again if we want to generate another output or not.
+Now, the decide-inator will pick a random option from the inputs and then ask again if we want to generate another output or not.
 
 ![Data Generation](https://github.com/dves09/Decideinator/blob/main/images/image3.png?raw=true)
 
