@@ -37,7 +37,7 @@ public class decideinator {
 				selection=null;
 				String rando = generateRandom(listt);
 				
-				System.out.println("|The decideinator has decided: " + rando + "|");
+				System.out.println("|The decideinator has decided: " + rando + " |");
 				System.out.println("|============================|");
 				System.out.println("|Generate again? (Y/N)       |");
 				System.out.println("|============================|");
