@@ -27,7 +27,7 @@ Now, the decideinator will pick a random option from the inputs and then ask aga
 
 **Delete Previous Output**
 
-We also have the option to delete the previous outcome so that on the next decider, the items that are already picked wont be picked again.
+We also have the option to delete the previous outcome so that on the next decider, the items that are already picked wont be picked again. It is to be noted that if there are no choices left in the vector, the program will end.
 
 ![Delete Previous Output](https://github.com/dves09/Decideinator/blob/main/images/image4.png?raw=true)
 
